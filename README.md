@@ -1,1 +1,1 @@
-# kubectl-viewer
+# k8s-viewer
