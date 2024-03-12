@@ -1,1 +1,1 @@
-# k8s-viewer
+# eks-viewer
